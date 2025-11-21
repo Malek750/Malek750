@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Malek Zehraoui
 
-**Computer Science Student | Android Developer | UI/UX Designer | Project Manager**
+**Computer Science Student | Android Developer | UI/UX Designer | Project Manager | Aspiring Backend Developer**
 
 I'm passionate about creating **smooth, functional, and user-friendly mobile apps**. I enjoy combining **technical skills with design thinking** to deliver complete digital experiences.  
 
