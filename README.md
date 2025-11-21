@@ -15,7 +15,7 @@ I'm passionate about creating **smooth, functional, and user-friendly mobile app
 - **E-Commerce App:** Clean and user-friendly marketplace UI/UX (Figma, Illustrator)  
 
 📫 **Connect with me:**  
-- LinkedIn: [Your LinkedIn](#)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- LinkedIn: [My LinkedIn](linkedin.com/in/abdel-malek-zehraoui)  
+- Email: [My Email](mailto:a.zehraoui@esi-sba.dz)  
 
 🌱 Always learning new technologies and improving my skills in mobile development, UI/UX, and project management.
