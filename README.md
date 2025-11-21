@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Malek Zehraoui
+# Hi there 👋, I'm AbdelMalek Zehraoui
 
 **Computer Science Student | Android Developer | UI/UX Designer | Project Manager**  
 
@@ -46,7 +46,7 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malek-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdel-malek-zehraoui)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdelMalek-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdel-malek-zehraoui)  
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:a.zehraoui@esi-sba.dz)  
 
 ---
