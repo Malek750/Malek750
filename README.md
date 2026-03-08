@@ -1,6 +1,6 @@
-# Hi there 👋, I'm AbdelMalek Zehraoui
+# Hi 👋, I'm AbdelMalek Zehraoui
 
-**Computer Science Student | Android Developer | UI/UX Designer | Project Manager**  
+**Computer Science Student | Aspiring Backend Developer | UI/UX Designer | Data Science Enthusiast**  
 
 💻 I love creating **smooth, functional, and user-friendly mobile apps**, combining **technical skills and design thinking** to deliver impactful digital experiences.
 
